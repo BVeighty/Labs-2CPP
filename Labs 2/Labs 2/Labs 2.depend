@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1516031736 source:d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 2\labs 2\src\cercle.cpp
+	<cmath>
+	<iostream>
+	"Cercle.h"
+
+1516031650 d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 2\labs 2\include\cercle.h
+
