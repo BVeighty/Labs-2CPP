@@ -21,3 +21,11 @@ void Point::setOrdonnee(double ord)
 {
     ordonnee = ord;
 }
+double Point::getAbscisse()
+{
+    return abscisse;
+}
+double Point::getOrdonnee()
+{
+    return ordonnee;
+}

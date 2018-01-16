@@ -9,6 +9,8 @@ class Point
         void affiche();
         void setAbscisse(double abs);
         void setOrdonnee(double ord);
+        double getAbscisse();
+        double getOrdonnee();
 
     private:
         double abscisse;
