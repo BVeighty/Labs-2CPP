@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="Labs 4" />
+		<Option title="Labs 5" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/Labs 4" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/Labs 5" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -17,7 +17,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/Labs 4" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/Labs 5" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -34,11 +34,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="include/Cercle.h" />
-		<Unit filename="include/Point.h" />
+		<Unit filename="include/Duree.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="src/Cercle.cpp" />
-		<Unit filename="src/Point.cpp" />
+		<Unit filename="src/Duree.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

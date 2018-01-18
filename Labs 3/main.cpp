@@ -16,8 +16,6 @@ int main()
 
     Rationnelle frac = Rationnelle(-52, 48);
     frac.affiche();
-    int toto = -3;
-    cout << &toto << endl;
     frac.setDenominateur(toto);
     //frac.affiche();
     //cout << frac.partieEntiere();
