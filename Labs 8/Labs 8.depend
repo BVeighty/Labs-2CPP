@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1516284478 source:d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 8\src\livre.cpp
+	"Livre.h"
+	<iostream>
+
+1516283772 d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 8\include\livre.h
+	<string>
+
+1516284303 source:d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 8\src\bd.cpp
+	"BD.h"
+	<iostream>
+
+1516283890 d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 8\include\bd.h
+	<string>
+	"Livre.h"
+
+1516284742 source:d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 8\src\romangraphique.cpp
+	"RomanGraphique.h"
+	<iostream>
+
+1516283950 d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 8\include\romangraphique.h
+	<string>
+	"Livre.h"
+	"BD.h"
+	"Roman.h"
+
+1516283831 d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 8\include\roman.h
+	<string>
+	"Livre.h"
+
+1516284302 source:d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 8\src\roman.cpp
+	"Roman.h"
+	<iostream>
+
+1516284731 source:d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 8\main.cpp
+	<iostream>
+	"Livre.h"
+	"BD.h"
+	"Roman.h"
+	"RomanGraphique.h"
+

@@ -1,15 +1,17 @@
 # depslib dependency file v1.0
-1516272403 source:d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 7\main.cpp
+1516275371 source:d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 7\main.cpp
 	<iostream>
 	"Reel.h"
 	"Complexe.h"
+	"Voiture.h"
+	"VoitureDeCollection.h"
 
 1516271713 d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 7\include\reel.h
 
-1516272753 d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 7\include\complexe.h
+1516272765 d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 7\include\complexe.h
 	"Reel.h"
 
-1516271711 source:d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 7\src\reel.cpp
+1516272766 source:d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 7\src\reel.cpp
 	"Reel.h"
 	<iostream>
 
@@ -17,4 +19,18 @@
 	"Complexe.h"
 	<iostream>
 	<cmath>
+
+1516275977 source:d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 7\src\voiture.cpp
+	"Voiture.h"
+	<iostream>
+
+1516275056 d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 7\include\voiture.h
+	<string>
+	<ostream>
+
+1516275325 source:d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 7\src\voituredecollection.cpp
+	"VoitureDeCollection.h"
+
+1516275161 d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 7\include\voituredecollection.h
+	"Voiture.h"
 
