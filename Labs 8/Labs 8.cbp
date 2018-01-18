@@ -34,9 +34,15 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="include/ivre.h" />
+		<Unit filename="include/BD.h" />
+		<Unit filename="include/Livre.h" />
+		<Unit filename="include/Roman.h" />
+		<Unit filename="include/RomanGraphique.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="src/ivre.cpp" />
+		<Unit filename="src/BD.cpp" />
+		<Unit filename="src/Livre.cpp" />
+		<Unit filename="src/Roman.cpp" />
+		<Unit filename="src/RomanGraphique.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
