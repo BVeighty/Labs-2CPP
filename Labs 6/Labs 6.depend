@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1516121795 source:d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 6\src\rationnelle.cpp
+	"Rationnelle.h"
+	<iostream>
+	<cmath>
+
+1516268472 d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 6\include\rationnelle.h
+	<iostream>
+
+1516121817 source:d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 6\main.cpp
+	<iostream>
+	"Rationnelle.h"
+
