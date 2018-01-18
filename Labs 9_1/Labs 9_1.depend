@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1516292361 source:d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 9_1\src\animal.cpp
+	"Animal.h"
+	<string>
+	<iostream>
+
+1516293772 d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 9_1\include\animal.h
+	<string>
+
+1516293765 source:d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 9_1\main.cpp
+	<iostream>
+	<string>
+	"Animal.h"
+	"Mammifere.h"
+	"Oiseau.h"
+
+1516293784 d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 9_1\include\mammifere.h
+	"Animal.h"
+	<string>
+
+1516293847 d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 9_1\include\oiseau.h
+	"Animal.h"
+	<string>
+
+1516293925 source:d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 9_1\src\mammifere.cpp
+	"Mammifere.h"
+	<iostream>
+
+1516293955 source:d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 9_1\src\oiseau.cpp
+	"Oiseau.h"
+	<iostream>
+

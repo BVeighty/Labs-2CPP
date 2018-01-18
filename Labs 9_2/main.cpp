@@ -1,4 +1,5 @@
-#include <iostream>
+
+#define TAILLE_TABLEAU 5#include <iostream>
 #include "XOR.h"
 #include "AND.h"
 #include "OR.h"
