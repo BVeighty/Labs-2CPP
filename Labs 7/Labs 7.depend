@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1516272403 source:d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 7\main.cpp
+	<iostream>
+	"Reel.h"
+	"Complexe.h"
+
+1516271713 d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 7\include\reel.h
+
+1516272753 d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 7\include\complexe.h
+	"Reel.h"
+
+1516271711 source:d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 7\src\reel.cpp
+	"Reel.h"
+	<iostream>
+
+1516272568 source:d:\documents\cours\sct\a.sc.2 2017 - 2018\2cpp - c++ language\labs\labs 7\src\complexe.cpp
+	"Complexe.h"
+	<iostream>
+	<cmath>
+
